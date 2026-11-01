@@ -1,0 +1,23 @@
+{
+  "docVersion": "1.0.0",
+  "resource": {
+    "name": "Flow",
+    "kind": "package",
+    "apiVersion": "orchestrator.uipath.com/v1",
+    "projectKey": "eb939325-a9e6-4ea7-ae84-9190a9143bf9",
+    "isOverridable": true,
+    "dependencies": [],
+    "runtimeDependencies": [],
+    "folders": [
+      {
+        "fullyQualifiedName": "solution_folder"
+      }
+    ],
+    "spec": {
+      "name": "Flow"
+    },
+    "locks": [],
+    "key": "ce23956d-15f5-452e-9a6f-2ebdf73865fe",
+    "files": []
+  }
+}

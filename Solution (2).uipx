@@ -1,0 +1,13 @@
+{
+  "DocVersion": "1.0.0",
+  "StudioMinVersion": "2025.04.0",
+  "SolutionId": "6f4d60de-8997-4f62-6617-08df36912fea",
+  "Projects": [
+    {
+      "Type": "Flow",
+      "ProjectRelativePath": "Flow/project.uiproj",
+      "Id": "eb939325-a9e6-4ea7-ae84-9190a9143bf9"
+    }
+  ],
+  "AutomationHubIdeaUrl": null
+}

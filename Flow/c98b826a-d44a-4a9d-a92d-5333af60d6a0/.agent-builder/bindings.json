@@ -1,0 +1,22 @@
+{
+  "version": "2.0",
+  "resources": [
+    {
+      "resource": "connection",
+      "key": "8d8abf0f-e866-4929-acba-8915bbf9bd26",
+      "value": {
+        "connectionId": {
+          "defaultValue": "8d8abf0f-e866-4929-acba-8915bbf9bd26",
+          "isExpression": false,
+          "displayName": "Model connection ID"
+        }
+      },
+      "metadata": {
+        "connector": "",
+        "useConnectionService": "true",
+        "bindingsVersion": "2.2",
+        "solutionsSupport": "true"
+      }
+    }
+  ]
+}

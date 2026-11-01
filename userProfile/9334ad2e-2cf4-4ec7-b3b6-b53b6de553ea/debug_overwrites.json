@@ -1,0 +1,46 @@
+{
+  "docVersion": "1.0.0",
+  "tenants": [
+    {
+      "tenantKey": "4a3a6c23-ffb8-4ad0-a3bd-0b6c3a1e426e",
+      "resources": [
+        {
+          "solutionResourceKey": "2039d01d-96b4-4760-a973-36b3172369cb",
+          "reprovisioningIndex": 0,
+          "overwrite": {
+            "resourceKey": "2039d01d-96b4-4760-a973-36b3172369cb",
+            "resourceName": "OpenAI #3",
+            "folderKey": "4acb1506-c1a9-40c1-9470-4d73037b5d05",
+            "folderFullyQualifiedName": "sumanthpalliboina@gmail.com's workspace",
+            "folderPath": "4acb1506-c1a9-40c1-9470-4d73037b5d05",
+            "type": "Reference"
+          }
+        },
+        {
+          "solutionResourceKey": "8d8abf0f-e866-4929-acba-8915bbf9bd26",
+          "reprovisioningIndex": 0,
+          "overwrite": {
+            "resourceKey": "8d8abf0f-e866-4929-acba-8915bbf9bd26",
+            "resourceName": "OpenAI #4",
+            "folderKey": "4acb1506-c1a9-40c1-9470-4d73037b5d05",
+            "folderFullyQualifiedName": "sumanthpalliboina@gmail.com's workspace",
+            "folderPath": "4acb1506-c1a9-40c1-9470-4d73037b5d05",
+            "type": "Reference"
+          }
+        },
+        {
+          "solutionResourceKey": "7b4132bc-a205-4017-afef-6dce5d301e99",
+          "reprovisioningIndex": 0,
+          "overwrite": {
+            "resourceKey": "7b4132bc-a205-4017-afef-6dce5d301e99",
+            "resourceName": "gmail-20261031104822860",
+            "folderKey": "4acb1506-c1a9-40c1-9470-4d73037b5d05",
+            "folderFullyQualifiedName": "sumanthpalliboina@gmail.com's workspace",
+            "folderPath": "94197450-c072-4d65-ac88-4b5d4c6cfc47.4acb1506-c1a9-40c1-9470-4d73037b5d05",
+            "type": "Reference"
+          }
+        }
+      ]
+    }
+  ]
+}

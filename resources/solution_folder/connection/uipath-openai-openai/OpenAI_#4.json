@@ -1,0 +1,28 @@
+{
+  "docVersion": "1.0.0",
+  "resource": {
+    "name": "OpenAI #4",
+    "kind": "connection",
+    "type": "uipath-openai-openai",
+    "apiVersion": "integrationservice.uipath.com/v1",
+    "isOverridable": true,
+    "dependencies": [],
+    "runtimeDependencies": [],
+    "folders": [
+      {
+        "fullyQualifiedName": "solution_folder"
+      }
+    ],
+    "spec": {
+      "connectorName": "OpenAI",
+      "name": "OpenAI #4",
+      "authenticationType": "AuthenticateAfterDeployment",
+      "connectorVersion": "1.17.9",
+      "connectorKey": "uipath-openai-openai",
+      "pollingInterval": 5
+    },
+    "locks": [],
+    "key": "8d8abf0f-e866-4929-acba-8915bbf9bd26",
+    "files": []
+  }
+}
